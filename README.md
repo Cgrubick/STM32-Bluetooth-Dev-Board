@@ -7,19 +7,19 @@ Overview
 This repository contains the design files, firmware, and documentation for a custom-designed PCB featuring an STM32 microcontroller with Bluetooth capabilities. The project is aimed at demonstrating advanced PCB design techniques, including RF circuitry for Bluetooth communication, making it suitable for a wide range of wireless applications.
 Features:
 
-STM32WB55CEU6 : Utilizes a high-performance STM32 MCU, offering ample processing power for complex applications
+  -STM32WB55CEU6 : Utilizes a high-performance STM32 MCU, offering ample processing power for complex applications
 
-USB-C Connectivity: Utlizied USB-C with USB2.0 for connecting to the board and communication and power supply. Paired with the USB ESD protection IC
+  -USB-C Connectivity: Utlizied USB-C with USB2.0 for connecting to the board and communication and power supply. Paired with the USB ESD protection IC
 
-LDO Regulator: 5V to 3.3V supply
+  -LDO Regulator: 5V to 3.3V supply
 
-SWD Intereface: SWD connection for programming and debugging
+  -SWD Intereface: SWD connection for programming and debugging
 
-RF Circuit: Impedence matching network and a LPF directed into a coaxial connection
+  -RF Circuit: Impedence matching network and a LPF directed into a coaxial connection
 
-Bootloader Button: Debouncing circuit and bootloader switch for firmware
+  -Bootloader Button: Debouncing circuit and bootloader switch for firmware
 
-UART Header Connection
+  -UART Header Connection
 
 
 
