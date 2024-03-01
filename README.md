@@ -5,6 +5,7 @@ By Clayton Grubick
 Overview
 
 This repository contains the design files, firmware, and documentation for a custom-designed PCB featuring an STM32 microcontroller with Bluetooth capabilities. The project is aimed at demonstrating advanced PCB design techniques, including RF circuitry for Bluetooth communication, making it suitable for a wide range of wireless applications.
+
 Features:
 
   -STM32WB55CEU6 : Utilizes a high-performance STM32 MCU, offering ample processing power for complex applications
